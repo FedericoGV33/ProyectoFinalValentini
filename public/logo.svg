@@ -1,0 +1,10 @@
+<!-- Aurel mark - simple diamond -->
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#111827" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- top facets -->
+  <path d="M3 9l4-5h10l4 5"></path>
+  <!-- diamond outline -->
+  <path d="M3 9l9 12 9-12"></path>
+  <!-- inner facets -->
+  <path d="M7 9l5 12 5-12"></path>
+  <path d="M12 3v2"></path>
+</svg>
