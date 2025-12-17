@@ -37,3 +37,9 @@ Carrito global con Context y checkout con generación de órdenes en Firestore.
 ```bash
 npm install
 ```
+
+2. Crear el archivo `.env` en la raíz del proyecto (usar `.env.example` como guía) y completar tus credenciales de Firebase:
+
+```bash
+cp .env.example .env
+```
